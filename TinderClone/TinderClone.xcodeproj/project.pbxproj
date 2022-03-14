@@ -15,6 +15,7 @@
 		A030466F27DFE12D00E9B8F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A030466D27DFE12D00E9B8F6 /* LaunchScreen.storyboard */; };
 		A030467827DFF15400E9B8F6 /* UIViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A030467727DFF15400E9B8F6 /* UIViewExtensions.swift */; };
 		A030467B27DFFFE700E9B8F6 /* BottomActionsStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A030467A27DFFFE700E9B8F6 /* BottomActionsStackView.swift */; };
+		A030467D27E004E900E9B8F6 /* NavigationStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A030467C27E004E900E9B8F6 /* NavigationStackView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A030467027DFE12D00E9B8F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A030467727DFF15400E9B8F6 /* UIViewExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtensions.swift; sourceTree = "<group>"; };
 		A030467A27DFFFE700E9B8F6 /* BottomActionsStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomActionsStackView.swift; sourceTree = "<group>"; };
+		A030467C27E004E900E9B8F6 /* NavigationStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				A030467A27DFFFE700E9B8F6 /* BottomActionsStackView.swift */,
+				A030467C27E004E900E9B8F6 /* NavigationStackView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A030467B27DFFFE700E9B8F6 /* BottomActionsStackView.swift in Sources */,
+				A030467D27E004E900E9B8F6 /* NavigationStackView.swift in Sources */,
 				A030466727DFE12D00E9B8F6 /* ViewController.swift in Sources */,
 				A030467827DFF15400E9B8F6 /* UIViewExtensions.swift in Sources */,
 				A030466327DFE12D00E9B8F6 /* AppDelegate.swift in Sources */,
